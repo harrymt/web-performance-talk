@@ -15,6 +15,7 @@ Here are a list of Web Performance Tools to gather a performance metric.
 - [GitHub Performance Checklist](https://github.com/antarestupin/performance-checklist)
 - [Automate PageSpeed tools](https://developers.google.com/speed/docs/insights/v4/reference/pagespeedapi/runpagespeed)
 - [Gzip Encoding](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/optimize-encoding-and-transfer#text-compression-with-gzip)
+- [Use Typekits js to render fonts instead of their default @import method](https://typekit.com/kit_setup/kits/gqz5cam?family=lydn&popup=true#async-snippet)
 
 ### Compress
 
