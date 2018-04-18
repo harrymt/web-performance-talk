@@ -11,7 +11,7 @@ Here are a list of Web Performance Tools to gather a performance metric.
 
 
 ## Techniques
-
+- [Google Sheet to calculate performance metrics](https://docs.google.com/spreadsheets/d/1dXH-bXX3gxqqpD1f7rp6ImSOhobsT1gn_GQ2fGZp8UU/edit?ts=59fb61d2#gid=0)
 - [GitHub Performance Checklist](https://github.com/antarestupin/performance-checklist)
 - [Automate PageSpeed tools](https://developers.google.com/speed/docs/insights/v4/reference/pagespeedapi/runpagespeed)
 - [Gzip Encoding](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/optimize-encoding-and-transfer#text-compression-with-gzip)
