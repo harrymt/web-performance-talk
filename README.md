@@ -1,3 +1,5 @@
+![](slides.png)
+
 # Web Performance Tools
 
 Here are a list of Web Performance Tools to gather a performance metric.
