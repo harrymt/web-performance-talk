@@ -1,4 +1,9 @@
-![](slides.png)
+[![Web Performance - Harry Mumford-Turner](slides.png)](https://www.youtube.com/watch?v=-q7tqlng4wk)
+
+I presented an internal tech talk on Web Performance and some tooling you can use for improvements.
+
+- [Slides](slides.pdf)
+- [Video](https://www.youtube.com/watch?v=-q7tqlng4wk)
 
 # Web Performance Tools
 
